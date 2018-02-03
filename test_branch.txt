@@ -1,2 +1,1 @@
-New branch created, this file is only for that branch, editing this line on branch test-1 to induce conflict.
 Adding newline to check if git checkout to some other branch fails or not
