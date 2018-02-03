@@ -1,1 +1,1 @@
-Adding newline to check if git checkout to some other branch fails or not
+Adding newline to check if git checkout to some other branch fails or not. 
