@@ -1,0 +1,1 @@
+This is added into the branch test-2, just to check the pull request with a new file
