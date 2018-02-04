@@ -1,1 +1,1 @@
-Adding newline to check if git checkout to some other branch fails or not. Simply editing this line from github.com.
+Adding newline to check if git checkout to some other branch fails or not. Simply editing this line from locally.
