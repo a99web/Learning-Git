@@ -1,2 +1,2 @@
 - Adding newline to check if git checkout to some other branch fails or not. Edit in test-2.
-- Adding this line to test for merge conflic (test-2).test-2. Dummy edit in test-2.
+- Adding this line to test for merge conflic (test-2).test-2. Dummy edit in test-2. TEST-2
